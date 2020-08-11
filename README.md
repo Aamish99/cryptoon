@@ -2,14 +2,13 @@
 Cryptoon is an advanced system to earn money from crypto exchanges by using their affiliate programs by showing best crypto currencies rates to users. It comes with many useful features for any cryptocurrency trader like crypto exchanges comparison, crypto coin price alerts, calculator, deals, blog and much more. Get benefit of it most powerfull admin from where admin can add any coin or exchange and also can manage complete site.
 
 </p>
-## Demo
+<h2>Demo</h2>
 <p><a href="https://cryptoon.nulledism.com/">https://cryptoon.nulledism.com/</a></p>
 <p>username: admin@admin.com <br> password: 123456</p>
 
-
 <p>For customization or installation contact: <a href="mailto:nd_sohail@yahoo.com">nd_sohail@yahoo.com</a></p>
-## About Laravel
 
+<h2>About Laravel</h2>
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
