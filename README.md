@@ -1,4 +1,9 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p>
+Cryptoon is an advanced system to earn money from crypto exchanges by using their affiliate programs by showing best crypto currencies rates to users. It comes with many useful features for any cryptocurrency trader like crypto exchanges comparison, crypto coin price alerts, calculator, deals, blog and much more. Get benefit of it most powerfull admin from where admin can add any coin or exchange and also can manage complete site.
+
+</p>
+## Demo
+<a href="https://cryptoon.nulledism.com/">https://cryptoon.nulledism.com/</a>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
