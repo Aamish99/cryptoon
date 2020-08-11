@@ -3,15 +3,11 @@ Cryptoon is an advanced system to earn money from crypto exchanges by using thei
 
 </p>
 ## Demo
-<a href="https://cryptoon.nulledism.com/">https://cryptoon.nulledism.com/</a>
+<p><a href="https://cryptoon.nulledism.com/">https://cryptoon.nulledism.com/</a></p>
+<p>username: admin@admin.com <br> password: 123456</p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 
+<p>For customization or installation contact: <a href="mailto:nd_sohail@yahoo.com">nd_sohail@yahoo.com</a></p>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
